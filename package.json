@@ -10,7 +10,7 @@
     "@material-ui/core": "^4.9.9",
     "chart.js": "^2.7.3",
     "fetch-to-curl": "^0.3.0",
-    "gatsby": "^2.20.9",
+    "gatsby": "^4.25.2",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -47,7 +47,7 @@
     "eslint-plugin-react": "^7.18.0",
     "gatsby-plugin-eslint": "^2.0.1",
     "prettier": "^1.14.2",
-    "semantic-release": "^16.0.2"
+    "semantic-release": "^20.0.1"
   },
   "repository": {
     "type": "git",
